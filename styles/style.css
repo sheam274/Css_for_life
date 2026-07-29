@@ -1,0 +1,72 @@
+nav ul li{
+    list-style: none;
+}
+
+#newspaper-title{
+    text-align: center;
+    color: rgb(163, 42, 165);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+nav ul{
+    display: flex;
+    color:brown;
+    gap: 20px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgb(42, 165, 106);
+    border-width: 5px;
+    width: 50%;
+}
+.section_container{
+    display: flex;
+    justify-content: space-between;
+    color: rgb(42, 165, 106);
+    border: 7px solid rgb(159, 165, 42);
+    margin: 0 auto;
+    padding: 20px;
+}
+.div1{
+    font-size: 20px;
+    border: 10px solid rgb(42, 114, 165);
+    gap: 20px;
+    width: 30%;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+    text-color: rgb(165, 104, 42);
+    font-style: italic;
+}
+.div2{
+    font-size: 20px;
+    border: 10px solid rgb(89, 6, 75);
+    gap: 20px;
+    width: 30%;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+    text-color: rgb(42, 165, 63);
+    font-weight: bold;
+}
+.div3{
+    font-size: 20px;
+    border: 10px solid rgb(46, 165, 42);
+    gap: 20px;
+    text-color: rgb(165, 42, 165);
+    width: 30%;
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.div4{
+    font-size: 20px;
+    border: 10px solid rgb(165, 163, 42);
+    gap: 20px;
+    width: 30%;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+    text-color: rgb(42, 165, 165);
+}
+
+
+
+
