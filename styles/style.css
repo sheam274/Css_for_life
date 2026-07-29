@@ -26,6 +26,8 @@ nav ul{
     color: rgb(42, 165, 106);
     border: 7px solid rgb(159, 165, 42);
     margin: 0 auto;
+    gap: 20px;
+    justify-content: space-between;
     padding: 20px;
 }
 .div1{
